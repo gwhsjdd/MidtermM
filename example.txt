@@ -1,1 +1,4 @@
 Текст в основной ветке.
+One branch changes.
+Feature branch changes.
+Изменение из dev-feature.
